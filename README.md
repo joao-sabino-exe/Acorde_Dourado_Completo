@@ -18,11 +18,26 @@ Giovanna Antunes Baptista</p>
 <h3>Cada página possui sua finalidade especifica assim como:</h3>
 
 <p><strong>Home:</strong> Página principal do site que explica de maneira resumida a politica da empresa e nossa atividade principal.</p>
+<img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886563-00cd7ab7-0b5f-4bfe-b14f-3010aee99d5a.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
 <p><strong>Produtos:</strong> Nesta pagina apresentamos os produtos que vendemos, uma breve história de cada instrumento e um botão para comprar estes produtos</p>
+<img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886564-ff311e51-dc98-4375-9c1e-e4d7495b0517.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
 <p><strong>Empresa:</strong> Aqui é apresentada a história da empresa e como foi fundada</p>
+<img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886560-ca83e623-3638-4bdc-91c9-f184a3377353.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
 <p><strong>Contato:</strong> Aqui possui o endereço das lojas e as maneiras de entrar em contato</p>
+<img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886559-9dd3d1c9-9fc2-473f-978e-f275b8bebb14.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
 <p><strong>Cadastrar-se:</strong> Nesta pagina de formulário o usuario pode criar um cadastro no site e com isso efetuar suas compras</p>
+<img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886558-a5d5cefa-12b4-4bc7-b629-1601ebf1bdbf.png"/>
+<img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
