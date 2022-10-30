@@ -13,6 +13,8 @@ Gustavo Henrique Pexe Sforça,
 <br/>
 Giovanna Antunes Baptista</p>
 
+<h3>Para rodar o projeto em sua maquina é necessário estar com o node.js instalado em sua maquina, abrir o arquivo em sua IDE (utilizamos o Visual Studio Code), no prompt de comando digitar "npm install" e após terminar de instalar, ainda no prompt, digitar "npm start" e uma pagina será aberta automaticamente!</h3>
+
 <h3>O site foi feita a partir do framework <strong>React</strong> que foi utilizado para navegar entre as paginas sendo elas <strong>Home</strong> , <strong>Produtos</strong>, <strong>Empresa</strong>, <strong>Contatos</strong>,  <strong>Cadastre-se</strong>.</h3>
 
 <h3>Cada página possui sua finalidade especifica assim como:</h3>
