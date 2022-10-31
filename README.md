@@ -15,21 +15,21 @@ Giovanna Antunes Baptista</p>
 
 <h3>Para rodar o projeto em sua maquina é necessário estar com o node.js instalado em sua maquina, abrir o arquivo em sua IDE (utilizamos o Visual Studio Code), no prompt de comando digitar "npm install" e após terminar de instalar, ainda no prompt, digitar "npm start" e uma pagina será aberta automaticamente!</h3>
 
-<h3>O site foi feita a partir do framework <strong>React</strong> que foi utilizado para navegar entre as paginas sendo elas <strong>Home</strong> , <strong>Produtos</strong>, <strong>Empresa</strong>, <strong>Contatos</strong>,  <strong>Cadastre-se</strong>.</h3>
+<h3>O site foi feito a partir do framework <strong>React</strong> que foi utilizado para navegar entre as paginas sendo elas <strong>Home</strong> , <strong>Produtos</strong>, <strong>Empresa</strong>, <strong>Contatos</strong>,  <strong>Cadastre-se</strong>.</h3>
 
 <h3>Cada página possui sua finalidade especifica assim como:</h3>
 
-<p><strong>Home:</strong> Página principal do site que explica de maneira resumida a politica da empresa e nossa atividade principal.</p>
+<p><strong>Home:</strong> Página principal do site que explica de maneira resumida a politica da empresa e sua atividade principal.</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886563-00cd7ab7-0b5f-4bfe-b14f-3010aee99d5a.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
-<p><strong>Produtos:</strong> Nesta pagina apresentamos os produtos que vendemos, uma breve história de cada instrumento e um botão para comprar estes produtos</p>
+<p><strong>Produtos:</strong> Nesta pagina apresentamos os produtos que a empresa vende, uma breve história de cada instrumento e um botão para comprar estes produtos</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886564-ff311e51-dc98-4375-9c1e-e4d7495b0517.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
-<p><strong>Empresa:</strong> Aqui é apresentada a história da empresa e como foi fundada</p>
+<p><strong>Empresa:</strong> Aqui é apresentada a história da empresa e como ela foi fundada</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886560-ca83e623-3638-4bdc-91c9-f184a3377353.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
