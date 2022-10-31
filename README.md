@@ -13,8 +13,6 @@ Gustavo Henrique Pexe Sforça,
 <br/>
 Giovanna Antunes Baptista</p>
 
-<br/>
-
 <p><strong>Link para acessar o site: </strong>https://acorde-dourado.herokuapp.com/</p>
 
 <h3>Para rodar o projeto em sua maquina é necessário estar com o node.js instalado em sua maquina, abrir o arquivo em sua IDE (utilizamos o Visual Studio Code), no prompt de comando digitar "npm install" e após terminar de instalar, ainda no prompt, digitar "npm start" e uma pagina será aberta automaticamente!</h3>
